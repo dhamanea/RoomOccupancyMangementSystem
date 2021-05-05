@@ -1,2 +1,2 @@
 # RoomOccupancyMangementSystem
-PCB and enclosure design
+Report, PCB and enclosure design
